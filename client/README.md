@@ -2,6 +2,11 @@
 
 A 3D T-Shirt Designer using ChatGPT.
 
+![image](https://github.com/K0more/AI-Tshirt-Designer/assets/82630222/6dc32764-7d8e-4a4d-a00a-0c376c0ccf06)
+
+![image](https://github.com/K0more/AI-Tshirt-Designer/assets/82630222/d4bcc0c0-e11b-4b62-b4ed-c24c658f4e1d)
+
+
 ## How to run the project on local 
 
 - Firstly, clone the repo using git clone
@@ -15,9 +20,10 @@ A 3D T-Shirt Designer using ChatGPT.
 - Use AI picker to generate a style from ChatGPT 
 
 ## Tech-Stack
+- NodeJS & ExpressJS
 - ReactJS
 - ThreeJS
-- ChatGPT 3.5 Turbo API
+- ChatGPT 3.5 Turbo API ( DALL.E Image Generation )
 - Tailwind CSS
 
 
