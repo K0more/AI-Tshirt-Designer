@@ -10,8 +10,11 @@ A 3D T-Shirt Designer using ChatGPT.
 ## How to run the project on local 
 
 - Firstly, clone the repo using git clone
-- Then inside the client folder use npm run dev
+- Run npm install inside both client and server directories
+- Then inside server directory use npm start
+- Afterwards inside the client folder use npm run dev
 - The project will run at localhost:5173
+- port for the server router is localhost:8080
 
 ## Features:
 
